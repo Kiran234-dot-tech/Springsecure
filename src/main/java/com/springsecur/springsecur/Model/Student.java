@@ -1,4 +1,4 @@
-package com.springsecur.springsecur;
+package com.springsecur.springsecur.Model;
 
 public class Student {
     private int id;
